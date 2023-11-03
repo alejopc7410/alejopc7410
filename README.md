@@ -20,4 +20,4 @@ successful person, and can help others to achieve this things.
 
 ## 
 
-
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejopc7410)](https://github.com/alejopc7410/github-readme-stats)
