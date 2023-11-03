@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![]([https://github.com/alejopc7410/alejopc7410/blob/main/sponsor_tech_10-1024x576%20(2).jpg](https://github.com/alejopc7410/alejopc7410/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash%20(1).jpg)https://github.com/alejopc7410/alejopc7410/blob/main/florian-olivo-4hbJ-eymZ1o-unsplash%20(1).jpg)
+![]()
 
 ## About Me
 
