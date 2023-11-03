@@ -1,4 +1,4 @@
-![](code_image.jpg)
+![](code_image_2.jpg)
 
 ## About Me
 
